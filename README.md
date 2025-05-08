@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hallo! I'm Rizqi Zulqornain 👋
+
+![Rizqi Zulqornain](assets/images/rizqi.jpg)
 
 <!--
 **zulqornine/zulqornine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm studying at **Al Irsyad University Cilacap Central Java Indonesia**
+- 🌱 I’m currently learning **Laravel** Framework
